@@ -1,4 +1,4 @@
-## Check out live at https://clone-38eef.web.app
+## Check out 🔴live at https://clone-38eef.web.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
